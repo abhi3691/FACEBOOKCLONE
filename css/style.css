@@ -52,6 +52,13 @@ footer {
     max-width: 300px;
 }
 
+.logo-text{
+    text-align: right;
+    position: absolute;
+   left: 300px;
+   font-size: 25px;
+}
+
 .col-logo h2 {
     font-size: 26px;
     font-weight: 400;
